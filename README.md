@@ -25,7 +25,7 @@ A cena possui quatro diferentes fontes de iluminação:
 - **Luz Hemisférica** (`HemisphereLight`): Fornece uma iluminação suave e equilibrada.
 
 ### 5. Modelo Externo
-O modelo 3d utilizado no projeto do personagem Sigma de OverWatch 2. O modelo inclui animações que são reproduzidas utilizando um `AnimationMixer`.
+O modelo 3d utilizado no projeto é o projetil do personagem Sigma de OverWatch 2. O modelo inclui animações que são reproduzidas utilizando um `AnimationMixer`.
 
 ## Funcionalidades Adicionais
 
